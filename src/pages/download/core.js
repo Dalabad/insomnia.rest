@@ -71,7 +71,7 @@ export default class extends React.Component {
                   <p
                     className="subtle small"
                     style={{ maxWidth: '12rem', margin: 'auto' }}>
-                    or <code>brew cask install insomnia</code>
+                    or <code>brew install insomnia</code>
                   </p>
                 </div>
                 <div className="col-4 platform-download padding-bottom">
